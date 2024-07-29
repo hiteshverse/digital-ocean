@@ -180,7 +180,7 @@ hr {
 
 .content {
     width: 50%;
-    background: url('./imgs/bg.jpg');
+    background: url('imgs/bg.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
